@@ -1,0 +1,2 @@
+#!/bin/sh
+sudo apt install liblua5.3-dev gcc
