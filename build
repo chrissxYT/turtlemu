@@ -1,2 +1,0 @@
-#!/bin/sh
-gcc -Ofast -s -Wall -Wextra turtlemu.c liblua5.3.so -ldl -o turtlemu
