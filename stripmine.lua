@@ -1,5 +1,5 @@
-local i = read()
-for 1..i do
+local i = io.read()
+for j=1,i do
 	turtle.dig()
 	turtle.forward()
 	turtle.digUp()
